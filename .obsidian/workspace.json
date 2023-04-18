@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "994839f3174b9380",
+    "id": "e2e9631364ce614a",
     "type": "split",
     "children": [
       {
-        "id": "216dbc7b60206d07",
+        "id": "037b0e40882e8c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "d18f1cc24768b18d",
+            "id": "cb83dfa30c259da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "未命名/GIT同步测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "88793abf362ec9a4",
+    "id": "564fe8c0680d605e",
     "type": "split",
     "children": [
       {
-        "id": "22127b223d2b7552",
+        "id": "4481d46ca242e906",
         "type": "tabs",
         "children": [
           {
-            "id": "73f47b49458baa20",
+            "id": "f37c18ad432d903e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "4dfd17b2b05cdde4",
+            "id": "cd11583e206f81cb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ea493c46e83480d7",
+            "id": "09771ba4a32ee3d9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "41f327bf56bfa6d6",
+    "id": "2f8ff1364ead7fd7",
     "type": "split",
     "children": [
       {
-        "id": "5c42cf7ae53b82c6",
+        "id": "b3974d98ad266034",
         "type": "tabs",
         "children": [
           {
-            "id": "3011ec3d4116b0c1",
+            "id": "bc05907a5810a632",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "未命名/GIT同步测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "e5310dd5bb80bf07",
+            "id": "ea83b1652c4f9f40",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "未命名/GIT同步测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2775f6be18f82b8e",
+            "id": "eee7202006dbe6be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "398f7d3f5cafaa3e",
+            "id": "d8cdc0a30d97ec3d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "未命名/GIT同步测试.md"
               }
             }
           }
@@ -143,28 +143,24 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d18f1cc24768b18d",
+  "active": "cb83dfa30c259da6",
   "lastOpenFiles": [
-    "未命名.md",
-    "README.md",
-    "未命名/GIT同步测试.md",
+    "未命名.canvas",
+    "未命名/笔记软件功能整理与对比.md",
+    "未命名/每个人都有适合自己的工作流.md",
+    "未命名/基于Obsidian的知识管理思维（一）：学习方法与双链.md",
+    "未命名/双链笔记.md",
     "未命名/主题与插件.md",
+    "未命名/为什么选择·Obsidian？【玩转Obsidian的保姆级教程】 - 知乎.md",
     "未命名/My WorkFlow.excalidraw.md",
     "未命名/My Obisdian‘ s Workflow.md",
-    "未命名/calendar.md",
-    "未命名/论文.md",
-    "未命名/基于Obsidian的知识管理思维（一）：学习方法与双链.md",
-    "未命名/笔记软件功能整理与对比.md",
-    "未命名.canvas",
-    "未命名/为什么选择·Obsidian？【玩转Obsidian的保姆级教程】 - 知乎.md",
-    "未命名/每个人都有适合自己的工作流.md",
+    "未命名/GIT同步测试.md",
     "未命名/30多个Obsidian精选主题，让你笔记更美观舒适.md",
-    "未命名 1",
     "未命名",
-    "未命名/双链笔记.md"
+    "未命名.md",
+    "README.md"
   ]
 }
