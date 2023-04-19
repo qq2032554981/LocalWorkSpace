@@ -11,8 +11,12 @@
             "id": "c26acd8140ac536b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名/GIT同步测试.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -134,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -143,16 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f37c18ad432d903e",
+  "active": "c26acd8140ac536b",
   "lastOpenFiles": [
+    "未命名/为什么选择·Obsidian？【玩转Obsidian的保姆级教程】 - 知乎.md",
+    "未命名/主题与插件.md",
     "未命名/GIT同步测试.md",
     "未命名.canvas",
     "未命名/笔记软件功能整理与对比.md",
     "未命名/每个人都有适合自己的工作流.md",
     "未命名/基于Obsidian的知识管理思维（一）：学习方法与双链.md",
     "未命名/双链笔记.md",
-    "未命名/主题与插件.md",
-    "未命名/为什么选择·Obsidian？【玩转Obsidian的保姆级教程】 - 知乎.md",
     "未命名/My WorkFlow.excalidraw.md",
     "未命名/My Obisdian‘ s Workflow.md",
     "未命名/30多个Obsidian精选主题，让你笔记更美观舒适.md",
